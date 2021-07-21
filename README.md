@@ -41,7 +41,7 @@ A web application that aims to create donation campaigns and collect donor data 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Home ScreenShot](Screenshot/1.jpg)
+![Home ScreenShot](screenshot/1.jpg)
 
 **A full system for Donor registration has many properties:**
 <Br>
@@ -69,37 +69,37 @@ After create account then you can create donation.
 <Br>
 <p>∎ Home page of dashboard</p>
 
-![Screen Shot](Screenshot/2.jpg)
+![Screen Shot](screenshot/2.jpg)
 
 <br>
 <p>∎ Donations page</p>
 
-![Screen Shot](Screenshot/3.jpg)
+![Screen Shot](screenshot/3.jpg)
 
 <br>
 <p>∎ Active a Donation </p>
 
-![Screen Shot](Screenshot/4.jpg)
+![Screen Shot](screenshot/4.jpg)
 
 <br>
 <p>∎ Home page of dashboard if there active Donation </p>
 
-![Screen Shot](Screenshot/5.jpg)
+![Screen Shot](screenshot/5.jpg)
 
 <br>
 <p>∎ Registering on donations page </p>
 
-![Screen Shot](Screenshot/6.jpg)
+![Screen Shot](screenshot/6.jpg)
 
 <br>
 <p>∎ Auto pay statues will be off </p>
 
-![Screen Shot](Screenshot/7.jpg)
+![Screen Shot](screenshot/7.jpg)
 
 <br>
 <p>∎ if change the pay statues to on </p>
 
-![Screen Shot](Screenshot/8.jpg)
+![Screen Shot](screenshot/8.jpg)
 
 
 <!-- CONTACT -->
