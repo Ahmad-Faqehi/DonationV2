@@ -16,7 +16,7 @@
 
   <p align="center">
 A web application that aims to create donation campaigns and collect donor data and the amounts paid.    <br />
-    <a href="https://projects.iahmad.info/Donor">View Demo</a>
+    <a href="http://project.iahmad.info/Donor">View Demo</a>
   </p>
 
 
